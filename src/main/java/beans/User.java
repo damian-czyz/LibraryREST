@@ -1,4 +1,4 @@
-package models;
+package beans;
 
 import enums.Role;
 
@@ -6,19 +6,19 @@ import java.util.HashMap;
 
 public class User {
 
-    private String login;
+    private String username;
     private String password;
     private Role role;
 
 
     public User(String login, String password){
-        this.login = login;
+        this.username = login;
         this.password = password;
         this.role = Role.USER;
     }
 
     public User(String login, String password, Role role){
-        this.login = login;
+        this.username = login;
         this.password = password;
         this.role = role;
     }
@@ -44,7 +44,7 @@ public class User {
     }
 
     public String getLogin() {
-        return this.login;
+        return this.username;
     }
 
     public String getPassword() {

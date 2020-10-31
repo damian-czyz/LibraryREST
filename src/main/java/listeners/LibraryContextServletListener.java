@@ -1,8 +1,7 @@
 package listeners;
 
-import models.Book;
+import beans.Book;
 
-import javax.servlet.ServletContextAttributeEvent;
 import javax.servlet.ServletContextAttributeListener;
 import javax.servlet.ServletContextEvent;
 import javax.servlet.ServletContextListener;
@@ -33,21 +32,5 @@ public class LibraryContextServletListener implements ServletContextListener, Se
         books.add(b3);
 
         return books;
-    }
-
-
-    @Override
-    public void attributeAdded(ServletContextAttributeEvent servletContextAttributeEvent) {
-
-    }
-
-    @Override
-    public void attributeRemoved(ServletContextAttributeEvent servletContextAttributeEvent) {
-
-    }
-
-    @Override
-    public void attributeReplaced(ServletContextAttributeEvent servletContextAttributeEvent) {
-
     }
 }
