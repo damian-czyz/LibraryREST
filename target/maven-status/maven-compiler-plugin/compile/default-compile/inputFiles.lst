@@ -1,0 +1,11 @@
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\responses\GetDashboardReponse.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\beans\Book.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\enums\Role.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\requests\BookRequest.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\requests\LoginRequest.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\responses\Response.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\listeners\LibraryContextServletListener.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\servlets\DashboardServlet.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\responses\ExceptionResponse.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\servlets\LoginServlet.java
+D:\STUDIA_II\Algebra\dodatkowy\LibraryREST\src\main\java\beans\User.java
